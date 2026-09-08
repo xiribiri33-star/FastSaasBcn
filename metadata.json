@@ -1,0 +1,6 @@
+{
+  "name": "NODARIA",
+  "description": "Tu web, tus automatizaciones y tu IA en servidores propios en España.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
